@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ![Golang](https://img.shields.io/badge/Go-Golang-informational)
 
 ### Python
-[Django](https://img.shields.io/badge/Python-Django-yellow)
+![Django](https://img.shields.io/badge/Python-Django-yellow)
 
 ## 📑 Web Develop
 ![HTML](https://img.shields.io/badge/Web-HTML-pink)

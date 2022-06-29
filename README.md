@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ### C#
 ![Framework](https://img.shields.io/badge/C%23%0A-.NET_Framework-succes)
 ![Core](https://img.shields.io/badge/C%23%0A-.NET_Core-succes)
-![Xamarin]([https://img.shields.io/badge/C%23%0A-Xamarin-succes)
+![Xamarin](https://img.shields.io/badge/C%23%0A-Xamarin-succes)
 ![Unity](https://img.shields.io/badge/C%23%0A-Unity-succes)
 
 ### Go

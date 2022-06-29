@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hello there 👋
 
 Hi, i'm Flekos. I was born in 2000 and i'm developer since 2021.
 

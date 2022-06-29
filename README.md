@@ -4,20 +4,6 @@ Hi, i'm Flekos. I was born in 2000 and i'm developer since 2021.
 
 I start with java, and today known so much languages to develop.
 
-<!--
-**Fl3k0s/Fl3k0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" **alt="Go" width="40" height="40"/>&nbsp;
@@ -33,8 +19,10 @@ Here are some ideas to get you started:
 </p>
 
 ## 📱 Mobile
-![Java](https://img.shields.io/badge/java-android-blue)
+![Java](https://img.shields.io/badge/Java-Android-blue)
 ![Dart](https://img.shields.io/badge/Dart-Mobile-blue)
+![Flutter](https://img.shields.io/badge/Flutter-Mobile-blue)
+![Xcode](https://img.shields.io/badge/Xcode-Mobile-blue)
 
 ## 💻 Multi Platform
 ### Java

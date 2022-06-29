@@ -67,4 +67,4 @@ I start with java, and today known so much languages to develop.
 
 ## 🔥 My Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fl3k0s&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fl3k0s&layout=compact&theme=vision-friendly-dark)]

@@ -42,21 +42,23 @@ I start with java, and today known so much languages to develop.
 
 ### <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="20" height="20"/>&nbsp; Go
 ![Golang](https://img.shields.io/badge/Go-Golang-informational)
+![API](https://img.shields.io/badge/Goland-API-informational)
 
 ### <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="20" height="20"/>&nbsp; Python
 ![Django](https://img.shields.io/badge/Python-Django-yellow)
 
 ## 📑 Web Develop
+![Vue](https://img.shields.io/badge/Web-Vue-pink)
 ![HTML](https://img.shields.io/badge/Web-HTML-pink)
 ![CSS](https://img.shields.io/badge/Web-CSS-pink)
 ![Bootstrap](https://img.shields.io/badge/Web-Bootstrap-pink)
 ![Materialize](https://img.shields.io/badge/Web-Materialize-pink)
 ![JS](https://img.shields.io/badge/Web-JS-pink)
-![Vue](https://img.shields.io/badge/Web-Vue-pink)
 
 ## 🧮 Database
 ![MySqlServer](https://img.shields.io/badge/SQL-MySQLServer-blueviolet)
 ![Postgress](https://img.shields.io/badge/SQL-Postgres-blueviolet)
+![Couchbase](https://img.shields.io/badge/Couchbase-CouchbaseServer-blueviolet)
 
 ## 🖥 Others:
 ![Bash](https://img.shields.io/badge/Linux-Bash-orange)
